@@ -14,11 +14,13 @@ http://arxiv.org/pdf/1204.2055v1.pdf
 
 -----
 
-## an open approach ...
+## alternative approach ... 
 
 https://publiclab.org/wiki/frac-sand
 
 https://github.com/p-v-o-s/conductivity-research
+
+http://tmpnb.org
 
 -----
 
