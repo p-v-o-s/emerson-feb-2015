@@ -1,12 +1,12 @@
 ## motivation
 
-> search: 'silica particles in the air'
+> s: 'silica particles in the air'
 
 https://www.osha.gov/dsg/etools/silica/measure_amount/measure_amount.html
 
 http://www.sciencedirect.com/science/article/pii/S0021979705009331 
 
-> search: 'arxiv silica particles in the air'
+> s: 'arxiv silica particles in the air'
 
 http://arxiv.org/abs/1204.2055
 
@@ -14,11 +14,15 @@ http://arxiv.org/pdf/1204.2055v1.pdf
 
 -----
 
+## an open approach ...
+
 https://publiclab.org/wiki/frac-sand
 
 https://github.com/p-v-o-s/conductivity-research
 
 -----
+
+## public lab overview
 
 https://publiclab.org/wiki/balloon-mapping
 
@@ -30,11 +34,17 @@ https://www.publiclab.org/research?page=4
 
 ----
 
+## other similar organizations 
+
 http://farmhack.org/tools
+
+> s: open science
 
 ----
 
-https://publiclab.org/wiki/riffle
+## open water project 
+
+https://publiclab.org/wiki/open-water
 
 http://johnkeefe.net/monitoring-the-monongahela
 
